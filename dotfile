@@ -1,4 +1,4 @@
 
 export DYLD_LIBRARY_PATH=/Users/Jonas/Documents/git/LeapMusic/LeapSDK/lib
 
-export PS1=”\\e[0;31m[\e[m \e[0;32m\w\e[m \e[0;31m]\e[m \e[0;31m\$\e[m"
+export PS1="\\[\e[0;31m[\e[m \\[\e[0;32m\w\e[m \\[\e[0;31m]\e[m \\[\e[0;31m\$\e[m"
