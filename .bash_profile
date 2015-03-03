@@ -141,3 +141,5 @@ export HISTCONTROL=ignoredups:erasedups
 shopt -s histappend
 # After each command, append to the history file and reread it
 export PROMPT_COMMAND="newPrompt; history -a;"
+
+export DYLD_LIBRARY_PATH=/Users/Jonas/Documents/git/LeapMusic/LeapSDK/lib
